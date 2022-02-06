@@ -1,6 +1,6 @@
 # Cybermesh
 
-How to explain this.... Personal, portable, private network based of rpi-zero, allowing the use and coordination of multiple devices through an oculus auest 2 headset, integration of future modules (thermal camera overlayed on the passthrough? GPS and cellular services? Integration with IoT things to manipulate your real house in mixed reality? Who knows.) The hope being to create a kind mixed-reality engine and sorta pocket private metaverse that coordinates the use of multiple devices
+How to explain this.... Personal, portable, private network based off rpi-zero, allowing the use and coordination of multiple devices through an oculus quest 2 headset, integration of future modules (thermal camera overlayed on the passthrough? GPS and cellular services? Integration with IoT things to manipulate your real house in mixed reality? Who knows.) The hope being to create a kind mixed-reality engine and sorta pocket private metaverse that coordinates the use of multiple devices. An AR workspace of sorts as well as a platform for other explorations of mixed reality.
 
 ## Current Phase
 Right now really still working with the most basic level integration
