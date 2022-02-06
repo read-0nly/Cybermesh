@@ -1,6 +1,6 @@
 # Cybermesh
 
-How to explain this.... Personal, portable, private network based off rpi-zero, allowing the use and coordination of multiple devices through an oculus quest 2 headset, integration of future modules (thermal camera overlayed on the passthrough? GPS and cellular services? Integration with IoT things to manipulate your real house in mixed reality? Who knows.) The hope being to create a kind mixed-reality engine and sorta pocket private metaverse that coordinates the use of multiple devices. An AR workspace of sorts as well as a platform for other explorations of mixed reality.
+How to explain this.... Personal, portable, private network based off rpi-zero, allowing the use and coordination of multiple devices through an oculus quest 2 headset, integration of future modules (thermal camera overlayed on the passthrough? GPS and cellular services? Integration with IoT things to manipulate your real house in mixed reality? Who knows.) The hope being to create a kind mixed-reality engine and sorta pocket private metaverse that coordinates the use of multiple devices. An AR workspace of sorts as well as a platform for other explorations of mixed reality. More of a personal project than anything but a repo lets me centralize things and protect them from my careless deletion sprees when i start running low on space, and sharing it doesn't hurt anyone so might as well.
 
 ## Current Phase
 Right now really still working with the most basic level integration
@@ -32,6 +32,7 @@ Right now really still working with the most basic level integration
 - Host mini metaverse through apache on the rpi as a thing to mess around in
 - since connecting through vnc to android seems to be a challenge, 4g integration through rpi would be cool, handle calls through audio streams between rpi and headset through wifi.
 - other rpi sd card running vnc and retropie for oldschool gaming too
+- look absolutely ridiculous in public
 
 ## Long term - bad end
 - Figure out how to run an APK on a plane like oculus does
